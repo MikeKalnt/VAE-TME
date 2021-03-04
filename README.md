@@ -7,17 +7,19 @@ This project has been developed and tested in Python 3.6.9 and requires the foll
 - NumPy
 - Matplotlib
 - Tensorflow
+- Git Large File Storage
 
 ## Usage
-1. Clone the repo
+1. Download [Git Large File storage](https://docs.github.com/en/github/managing-large-files/installing-git-large-file-storage)
+2. Clone the repo
 ```sh
-   git clone https://github.com/MikeKalnt/VAE-TME.git
+   git lfs clone https://github.com/MikeKalnt/VAE-TME.git
 ```
-2. Change current directory and enter the startup folder
+3. Change current directory and enter the startup folder
 ```sh
    cd src/
 ```
-3. Open jupyter notebook `vae.ipynb` and select Run All Cells
+4. Open jupyter notebook `vae.ipynb` and select Run All Cells
 
 ## Authors
 - Kalntis Michail -  [el15123@central.ntua.gr](mailto:el15123@central.ntua.gr) / [mikekal2611@gmail.com](mailto:mikekal2611@gmail.com)
