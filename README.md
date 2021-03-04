@@ -7,8 +7,6 @@ This project has been developed and tested in Python 3.6.9 and requires the foll
 - NumPy
 - Matplotlib
 - Tensorflow
-- collections
-- operator
 
 ## Licence 
 Distributed under the MIT License. See [LICENCE](https://github.com/MikeKalnt/VAE-TME/blob/main/LICENSE) for more information.
