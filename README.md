@@ -7,15 +7,14 @@ This project has been developed and tested in Python 3.6.9 and requires the foll
 - NumPy
 - Matplotlib
 - Tensorflow
-- Git Large File Storage
 
 ## Usage
-1. Download [Git Large File storage](https://docs.github.com/en/github/managing-large-files/installing-git-large-file-storage)
+1. Download Traffic Matrices and Topology from this [link](https://drive.google.com/drive/folders/1aDblnkqurgLeDxA9Cp2kPPepb13J91Ps?usp=sharing)
 2. Clone the repo
 ```sh
-   git lfs clone https://github.com/MikeKalnt/VAE-TME.git
+   git clone https://github.com/MikeKalnt/VAE-TME.git
 ```
-3. Change current directory and enter the startup folder
+3. Add the downloaded files in the startup folder, Change current directory and enter the startup folder
 ```sh
    cd src/
 ```
