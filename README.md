@@ -14,7 +14,7 @@ This project has been developed and tested in Python 3.6.9 and requires the foll
 ```sh
    git clone https://github.com/MikeKalnt/VAE-TME.git
 ```
-3. Add the downloaded files in the startup folder, Change current directory and enter the startup folder
+3. Add the downloaded files in the startup folder, change current directory and enter the startup folder
 ```sh
    cd src/
 ```
