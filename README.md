@@ -24,5 +24,22 @@ This project has been developed and tested in Python 3.6.9 and requires the foll
 - Kalntis Michail -  [el15123@central.ntua.gr](mailto:el15123@central.ntua.gr) / [mikekal2611@gmail.com](mailto:mikekal2611@gmail.com)
 - Kakkavas Grigoris - [gkakkavas@netmode.ntua.gr](mailto:gkakkavas@netmode.ntua.gr)
 
+## Citing Work
+If you use any code please cite the following:
+
+### BibTeX
+```
+@inproceedings{kakkavas21,
+   author={Kakkavas, Grigorios and Kalntis, Michail and Karyotis, Vasileios and Papavassiliou, Symeon},
+   booktitle={2021 International Conference on Computer Communications and Networks (ICCCN)},
+   title={{Future Network Traffic Matrix Synthesis and Estimation Based on Deep Generative Models}},
+   year={2021},
+   pages={1-8},
+   doi={10.1109/ICCCN52240.2021.9522222}
+}
+```
+### Plain Text
+G. Kakkavas, M. Kalntis, V. Karyotis and S. Papavassiliou, "Future Network Traffic Matrix Synthesis and Estimation Based on Deep Generative Models," _2021 International Conference on Computer Communications and Networks (ICCCN)_, 2021, pp. 1-8, doi: 10.1109/ICCCN52240.2021.9522222.
+
 ## Licence 
 Distributed under the MIT License. See [LICENCE](https://github.com/MikeKalnt/VAE-TME/blob/main/LICENSE) for more information.
