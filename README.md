@@ -21,7 +21,7 @@ This project has been developed and tested in Python 3.6.9 and requires the foll
 4. Open jupyter notebook `vae.ipynb` and select Run All Cells
 
 ## Authors
-- Kalntis Michail -  [el15123@central.ntua.gr](mailto:el15123@central.ntua.gr) / [mikekal2611@gmail.com](mailto:mikekal2611@gmail.com)
+- Kalntis Michail -  [m.kalntis@tudelft.nl](mailto:m.kalntis@tudelft.nl) / [mikekal2611@gmail.com](mailto:mikekal2611@gmail.com)
 - Kakkavas Grigoris - [gkakkavas@netmode.ntua.gr](mailto:gkakkavas@netmode.ntua.gr)
 
 ## Citing Work
