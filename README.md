@@ -1,5 +1,5 @@
-# Future Network Traffic Matrix Synthesis and Estimation Based on Variational AutoEncoders (VAEs)
-Solving Traffic Matrix Estimation problem (in Network Tomography) from link-level measurements, using Variational AutoEncoders (VAEs).
+# Official Implementation: "Future Network Traffic Matrix Synthesis and Estimation Based on Deep Generative Models"
+Solving Traffic Matrix Estimation problem (in Network Tomography) from link-level measurements, using Variational AutoEncoders (VAEs). The code can be used also for Traffic Matrix Synthesis.
 
 ## Requirements
 This project has been developed and tested in Python 3.6.9 and requires the following libraries:
@@ -25,7 +25,7 @@ This project has been developed and tested in Python 3.6.9 and requires the foll
 - Kakkavas Grigoris - [gkakkavas@netmode.ntua.gr](mailto:gkakkavas@netmode.ntua.gr)
 
 ## Citing Work
-If you use any code please cite the following:
+If you used this code in your research, please cite the following:
 
 ### BibTeX
 ```
